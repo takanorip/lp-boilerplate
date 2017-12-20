@@ -1,0 +1,19 @@
+{
+  "name": "lp-boilerplate",
+  "version": "1.0.0",
+  "description": "LP制作のboilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanorip/lp-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takanorip/lp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/takanorip/lp-boilerplate#readme"
+}
